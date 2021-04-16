@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('discord.js');//kbilgi tarafından yapıldı :D
 const { stripIndents } = require('common-tags');
 const { randomRange, verify } = require('../util/Util.js');
 exports.run = async (client, message, args) => {
